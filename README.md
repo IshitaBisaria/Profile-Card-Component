@@ -5,13 +5,10 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 ## Table of contents
 
 - [Overview](#overview)
-  - [The challenge](#the-challenge)
 - [Screenshot](#screenshot)
 - [Links](#links)
 
 ## Overview
-
-### The challenge
 
 - Build out the project to the designs provided
 
@@ -21,5 +18,5 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 
 ## Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: https://github.com/IshitaBisaria/Profile-Card-Component
+- Live Site URL: https://ishitabisaria.github.io/Profile-Card-Component/

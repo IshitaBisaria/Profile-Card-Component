@@ -10,7 +10,7 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 
 ## Overview
 
-- Build project to the designs provided
+- Build out project to the designs provided
 
 ## Screenshot
 
